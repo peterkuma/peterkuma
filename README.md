@@ -9,7 +9,7 @@
 <tr><td><a href="https://github.com/peterkuma/rstool">rstool</a></td><td>Command-line tool for converting radiosonde measurement data to NetCDF and calculation of derived physical quantities, supporting InterMet Systems (iMet) and Windsond radiosondes, as well as calculating derived quantities from model profiles</td></tr>
 <tr><td><a href="https://github.com/peterkuma/ds-format">ds-format</a></td><td>Command-line tool and a Python package for reading and writing scientific data (<a href="https://ds-format.peterkuma.net">ds-format.peterkuma.net</a>)</td></tr>
 <tr><td><a href="https://github.com/peterkuma/aquarius-time">aquarius-time</a></td><td>Scientific time library for Python</td></tr>
-<tr><td><a href="https://github.com/peterkuma/alcf-precip">alcf-precip</a></td><td>An artificial neural network for detecting precipitation in lidar data for use with the Automatic Lidar and Ceilometer Framework (ALCF)</td></tr>
+<tr><td><a href="https://github.com/peterkuma/alcf-precip">alcf-precip</a></td><td>Artificial neural network for detecting precipitation in lidar data for use with the Automatic Lidar and Ceilometer Framework (ALCF)</td></tr>
 <tr><td><a href="https://github.com/peterkuma/rtc">rtc</a></td><td>R package for tree clustering based on Bayesian inference</td></tr>
 <tr><td><a href="https://github.com/peterkuma/libtc">libtc</a></td><td>Tree clustering C library based on Bayesian inference</td></tr>
 <tr><td><a href="https://github.com/peterkuma/nc_dump">nc_dump</a></td><td>Code for outputting data from the ALADIN numerical weather prediction model</td></tr>
