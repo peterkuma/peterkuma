@@ -21,7 +21,7 @@
 ### Open-source software
 
 <table>
-<tr><td><a href="https://github.com/peterkuma/fileshackproject">fileshackproject</a></td><td>Self-hosted web file storage</td></tr>
+<tr><td><a href="https://github.com/peterkuma/fileshackproject">fileshackproject</a></td><td>Web application for a self-hosted web file storage</td></tr>
 <tr><td><a href="https://github.com/peterkuma/django-attach">django-attach</a></td><td>Django admin plugin for attaching files to model instances with multiple file selection support</td></tr>
 <tr><td><a href="https://github.com/peterkuma/wstcp">wstcp</a></td><td>node.js client and server implementation of TCP forwarding over WebSocket</td></tr>
 <tr><td><a href="https://github.com/peterkuma/wstcp-server">wstcp-server</a></td><td>Command-line server for persistent TCP port forwarding over WebSocket</td></tr>
@@ -38,10 +38,10 @@
 <tr><td><a href="https://github.com/peterkuma/microplastics2021">microplastics2021</a></td><td>Code and data for the paper “Direct radiative effects of airborne microplastics” by Revell et al. (2021)</td></tr>
 <tr><td><a href="https://github.com/peterkuma/ml-clouds-2021">ml-clouds-2021</a></td><td>Code for the paper “Machine learning of cloud types in satellite observations and climate models” by Kuma et al. (2023)</td></tr>
 <tr><td><a href="https://github.com/peterkuma/hclim-evaluation-2026">hclim-evaluation-2026</a></td><td>Code for the manuscript “Evaluation of historical simulations in the HCLIM43-ALADIN regional climate downscaling ensemble over Europe in the EURO-CORDEX-CMIP6 framework” by Nikulin et al. (2026)</td></tr>
-<tr><td><a href="https://github.com/peterkuma/comble-mip-icon-les">comble-mip-icon-les</a></td><td>ICON LES contribution to the COMBLE-MIP project</td></tr>
+<tr><td><a href="https://github.com/peterkuma/comble-mip-icon-les">comble-mip-icon-les</a></td><td>Code for the ICON large-eddy simulation contribution to the COMBLE-MIP project (Juliano et al., 2026)</td></tr>
 <tr><td><a href="https://github.com/peterkuma/icon-so-2024">icon-so-2024</a></td><td>Code for the paper “Ship-based lidar evaluation of Southern Ocean low clouds in the storm-resolving general circulation model ICON and the ERA5 and MERRA-2 reanalyses” by Kuma et al. (2025)</td></tr>
-<tr><td><a href="https://github.com/peterkuma/icon-so-2024-alcf">icon-so-2024-alcf</a></td><td>Fork of the Automatic Lidar and Ceilometer Processing Framework (ALCF) with features for a manuscript</td></tr>
-<tr><td><a href="https://github.com/peterkuma/acraneb2-intermittency-analysis">acraneb2-intermittency-analysis</a></td><td>Code for the master's degree thesis “Broadband approach as a framework for implementation of radiative transfer scheme with selective intermittency: Cost versus accuracy study”</td></tr>
+<tr><td><a href="https://github.com/peterkuma/icon-so-2024-alcf">icon-so-2024-alcf</a></td><td>Fork of the Automatic Lidar and Ceilometer Processing Framework (ALCF) with features for the manuscript “Ship-based lidar evaluation of Southern Ocean low clouds in the storm-resolving general circulation model ICON and the ERA5 and MERRA-2 reanalyses” by Kuma et al. (2025)</td></tr>
+<tr><td><a href="https://github.com/peterkuma/acraneb2-intermittency-analysis">acraneb2-intermittency-analysis</a></td><td>Code for the master's degree thesis “Broadband approach as a framework for implementation of radiative transfer scheme with selective intermittency: Cost versus accuracy study” by Kuma (2015)</td></tr>
 </table>
 
 ### Manuscript and thesis source
