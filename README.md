@@ -2,13 +2,13 @@
 
 <table>
 <tr><td><a href="https://github.com/peterkuma/ccplot">ccplot</a></td><td>Command-line tool for visualizing data from CloudSat and CALIPSO satellites (<a href="https://ccplot.org">ccplot.org</a>)</td></tr>
-<tr><td><a href="https://github.com/peterkuma/cl2nc">cl2nc</a></td><td>Command-line tool for converting ceilometer data files to NetCDF, supporting Vaisala CL51, CL31, and CT25K</td></tr>
-<tr><td><a href="https://github.com/peterkuma/mrr2c">mrr2c</a></td><td>Command-line tool for converting Metek MRR-2 micro rain radar data to NetCDF</td></tr>
-<tr><td><a href="https://github.com/peterkuma/mpl2nc">mpl2nc</a></td><td>Command-line tool for converting Sigma Space Micro Pulse Lidar (MPL) data to NetCDF</td></tr>
+<tr><td><a href="https://github.com/peterkuma/cl2nc">cl2nc</a></td><td>Command-line tool for converting ceilometer data files to NetCDF, supporting Vaisala CL51, CL31, and CT25K (<a href="https://pypi.org/project/cl2nc/">https://pypi.org/project/cl2nc/</a>)</td></tr>
+<tr><td><a href="https://github.com/peterkuma/mrr2c">mrr2c</a></td><td>Command-line tool for converting Metek MRR-2 micro rain radar data to NetCDF (<a href="https://pypi.org/project/mrr2c/">https://pypi.org/project/mrr2c/</a>)</td></tr>
+<tr><td><a href="https://github.com/peterkuma/mpl2nc">mpl2nc</a></td><td>Command-line tool for converting Sigma Space Micro Pulse Lidar (MPL) data to NetCDF (<a href="https://pypi.org/project/mpl2nc/">https://pypi.org/project/mpl2nc/</a>)</td></tr>
 <tr><td><a href="https://github.com/peterkuma/ccbrowse">ccbrowse</a></td><td>Web application for browsing data from the CALIPSO and CloudSat satellites (<a href="https://ccplot.org/ccbrowse">ccplot.org/ccbrowse</a>)</td></tr>
-<tr><td><a href="https://github.com/peterkuma/rstool">rstool</a></td><td>Command-line tool for converting radiosonde measurement data to NetCDF and calculation of derived physical quantities, supporting InterMet Systems (iMet) and Windsond radiosondes, as well as calculating derived quantities from model profiles</td></tr>
+<tr><td><a href="https://github.com/peterkuma/rstool">rstool</a></td><td>Command-line tool for converting radiosonde measurement data to NetCDF and calculation of derived physical quantities, supporting InterMet Systems (iMet) and Windsond radiosondes, as well as calculating derived quantities from model profiles (<a href="https://pypi.org/project/rstool/">https://pypi.org/project/rstool/</a>)</td></tr>
 <tr><td><a href="https://github.com/peterkuma/ds-format">ds-format</a></td><td>Command-line tool and a Python package for reading and writing scientific data (<a href="https://ds-format.peterkuma.net">ds-format.peterkuma.net</a>)</td></tr>
-<tr><td><a href="https://github.com/peterkuma/aquarius-time">aquarius-time</a></td><td>Scientific time library for Python</td></tr>
+<tr><td><a href="https://github.com/peterkuma/aquarius-time">aquarius-time</a></td><td>Scientific time library for Python (<a href="https://pypi.org/project/aquarius-time/">https://pypi.org/project/aquarius-time/</a>)</td></tr>
 <tr><td><a href="https://github.com/peterkuma/alcf-precip">alcf-precip</a></td><td>Artificial neural network for detecting precipitation in lidar data for use with the Automatic Lidar and Ceilometer Framework (ALCF)</td></tr>
 <tr><td><a href="https://github.com/peterkuma/rtc">rtc</a></td><td>R package for tree clustering based on Bayesian inference</td></tr>
 <tr><td><a href="https://github.com/peterkuma/libtc">libtc</a></td><td>Tree clustering C library based on Bayesian inference</td></tr>
@@ -22,14 +22,14 @@
 
 <table>
 <tr><td><a href="https://github.com/peterkuma/fileshackproject">fileshackproject</a></td><td>Web application for a self-hosted web file storage (<a href="https://fileshack.peterkuma.net">fileshack.peterkuma.net</a>)</td></tr>
-<tr><td><a href="https://github.com/peterkuma/django-attach">django-attach</a></td><td>Django admin plugin for attaching files to model instances with multiple file selection support</td></tr>
-<tr><td><a href="https://github.com/peterkuma/wstcp">wstcp</a></td><td>node.js client and server implementation of TCP forwarding over WebSocket</td></tr>
-<tr><td><a href="https://github.com/peterkuma/wstcp-server">wstcp-server</a></td><td>Command-line server for persistent TCP port forwarding over WebSocket</td></tr>
-<tr><td><a href="https://github.com/peterkuma/wstcp-client">wstcp-client</a></td><td>Command-line client for persistent TCP port forwarding over WebSocket</td></tr>
+<tr><td><a href="https://github.com/peterkuma/django-attach">django-attach</a></td><td>Django admin plugin for attaching files to model instances with multiple file selection support (<a href="https://pypi.org/project/django-attach/">https://pypi.org/project/django-attach/</a>)</td></tr>
+<tr><td><a href="https://github.com/peterkuma/wstcp">wstcp</a></td><td>node.js client and server implementation of TCP forwarding over WebSocket (<a href="https://www.npmjs.com/package/wstcp">www.npmjs.com/package/wstcp</a>)</td></tr>
+<tr><td><a href="https://github.com/peterkuma/wstcp-server">wstcp-server</a></td><td>Command-line server for persistent TCP port forwarding over WebSocket (<a href="https://www.npmjs.com/package/wstcp-server">www.npmjs.com/package/wstcp-server</a>)</td></tr>
+<tr><td><a href="https://github.com/peterkuma/wstcp-client">wstcp-client</a></td><td>Command-line client for persistent TCP port forwarding over WebSocket (<a href="https://www.npmjs.com/package/wstcp-client">www.npmjs.com/package/wstcp-client</a>)</td></tr>
 <tr><td><a href="https://github.com/peterkuma/picture-slider">picture-slider</a></td><td>JavaScript library for an animated picture slider (<a href="https://picture-slider.peterkuma.net">picture-slider.peterkuma.net</a>)</td></tr>
-<tr><td><a href="https://github.com/peterkuma/pst">pst</a></td><td>Command-line tool and a Python package for parsing Plain Structured Text (PST)</td></tr>
+<tr><td><a href="https://github.com/peterkuma/pst">pst</a></td><td>Command-line tool and a Python package for parsing Plain Structured Text (PST) (<a href="https://pypi.org/project/pst-format/">https://pypi.org/project/pst-format/</a>)</td></tr>
 <tr><td><a href="https://github.com/peterkuma/django-linguo">django-linguo</a></td><td>Fork of django-linguo with support for more recent version of Django</td></tr>
-<tr><td><a href="https://github.com/peterkuma/bunyan-streams-config">bunyan-streams-config</a></td><td>node.js package for creating bunyan streams from JSON configuration</td></tr>
+<tr><td><a href="https://github.com/peterkuma/bunyan-streams-config">bunyan-streams-config</a></td><td>node.js package for creating bunyan streams from JSON configuration (<a href="https://www.npmjs.com/package/bunyan-streams-config">www.npmjs.com/package/bunyan-streams-config</a>)</td></tr>
 </table>
 
 ### Scientific code for papers and theses
