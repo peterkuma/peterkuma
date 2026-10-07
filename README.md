@@ -1,16 +1,61 @@
-## Hi there 👋
+### Scientific software
 
-<!--
-**peterkuma/peterkuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr><td><a href="https://github.com/peterkuma/ccplot">ccplot</a></td><td>Command-line tool for visualizing data from CloudSat and CALIPSO satellites</td></tr>
+<tr><td><a href="https://github.com/peterkuma/cl2nc">cl2nc</a></td><td>Command-line tool for converting ceilometer data files to NetCDF, supporting Vaisala CL51, CL31, and CT25K</td></tr>
+<tr><td><a href="https://github.com/peterkuma/mrr2c">mrr2c</a></td><td>Command-line tool for converting Metek MRR-2 micro rain radar data to NetCDF</td></tr>
+<tr><td><a href="https://github.com/peterkuma/mpl2nc">mpl2nc</a></td><td>Command-line tool for converting Sigma Space Micro Pulse Lidar (MPL) data to NetCDF</td></tr>
+<tr><td><a href="https://github.com/peterkuma/ccbrowse">ccbrowse</a></td><td>Web application for browsing data from the CALIPSO and CloudSat satellites</td></tr>
+<tr><td><a href="https://github.com/peterkuma/rstool">rstool</a></td><td>Command-line tool for converting radiosonde measurement data to NetCDF and calculation of derived physical quantities, supporting InterMet Systems (iMet) and Windsond radiosondes, as well as calculating derived quantities from model profiles</td></tr>
+<tr><td><a href="https://github.com/peterkuma/ds-format">ds-format</a></td><td>Command-line tool and a Python package for reading and writing scientific data</td></tr>
+<tr><td><a href="https://github.com/peterkuma/aquarius-time">aquarius-time</a></td><td>Scientific time library for Python</td></tr>
+<tr><td><a href="https://github.com/peterkuma/alcf-precip">alcf-precip</a></td><td>An artificial neural network for detecting precipitation in lidar data for use with the Automatic Lidar and Ceilometer Framework (ALCF)</td></tr>
+<tr><td><a href="https://github.com/peterkuma/rtc">rtc</a></td><td>R package for tree clustering based on Bayesian inference</td></tr>
+<tr><td><a href="https://github.com/peterkuma/libtc">libtc</a></td><td>Tree clustering C library based on Bayesian inference</td></tr>
+<tr><td><a href="https://github.com/peterkuma/nc_dump">nc_dump</a></td><td>Code for outputting data from the ALADIN numerical weather prediction model</td></tr>
+<tr><td><a href="https://github.com/peterkuma/dump2h5">dump2h5</a></td><td>Command-line tool for converting data from nc_dump to NetCDF/HDF5</td></tr>
+<tr><td><a href="https://github.com/peterkuma/forces-ecs">forces-ecs</a></td><td>Code for combining emergent constraints produced by the FORCeS project using the Bretherton and Caldwell (2020) method</td></tr>
+<tr><td><a href="https://github.com/peterkuma/bcc200-ocr">bcc200-ocr</a></td><td>Command-line tool for reading timestamps from the BCC200 camera images</td></tr>
+</table>
 
-Here are some ideas to get you started:
+### Open-source software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+<tr><td><a href="https://github.com/peterkuma/fileshackproject">fileshackproject</a></td><td>Self-hosted web file storage</td></tr>
+<tr><td><a href="https://github.com/peterkuma/django-attach">django-attach</a></td><td>Django admin plugin for attaching files to model instances with multiple file selection support</td></tr>
+<tr><td><a href="https://github.com/peterkuma/wstcp">wstcp</a></td><td>node.js client and server implementation of TCP forwarding over WebSocket</td></tr>
+<tr><td><a href="https://github.com/peterkuma/wstcp-server">wstcp-server</a></td><td>Command-line server for persistent TCP port forwarding over WebSocket</td></tr>
+<tr><td><a href="https://github.com/peterkuma/wstcp-client">wstcp-client</a></td><td>Command-line client for persistent TCP port forwarding over WebSocket</td></tr>
+<tr><td><a href="https://github.com/peterkuma/picture-slider">picture-slider</a></td><td>JavaScript library for an animated picture slider</td></tr>
+<tr><td><a href="https://github.com/peterkuma/pst">pst</a></td><td>Command-line tool and a Python package for parsing Plain Structured Text (PST)</td></tr>
+<tr><td><a href="https://github.com/peterkuma/django-linguo">django-linguo</a></td><td>Fork of django-linguo with support for more recent version of Django</td></tr>
+</table>
+
+### Scientific code for papers and theses
+
+<table>
+<tr><td><a href="https://github.com/peterkuma/model-code-genealogy-2022">model-code-genealogy-2022</a></td><td>Code for the paper “Climate model code genealogy and its relation to climate feedbacks and sensitivity” by Kuma et al. (2023)</td></tr>
+<tr><td><a href="https://github.com/peterkuma/microplastics2021">microplastics2021</a></td><td>Code and data for the paper “Direct radiative effects of airborne microplastics” by Revell et al. (2021)</td></tr>
+<tr><td><a href="https://github.com/peterkuma/ml-clouds-2021">ml-clouds-2021</a></td><td>Code for the paper “Machine learning of cloud types in satellite observations and climate models” by Kuma et al. (2023)</td></tr>
+<tr><td><a href="https://github.com/peterkuma/hclim-evaluation-2026">hclim-evaluation-2026</a></td><td>Code for the manuscript “Evaluation of historical simulations in the HCLIM43-ALADIN regional climate downscaling ensemble over Europe in the EURO-CORDEX-CMIP6 framework” by Nikulin et al. (2026)</td></tr>
+<tr><td><a href="https://github.com/peterkuma/comble-mip-icon-les">comble-mip-icon-les</a></td><td>ICON LES contribution to the COMBLE-MIP project</td></tr>
+<tr><td><a href="https://github.com/peterkuma/icon-so-2024">icon-so-2024</a></td><td>Code for the paper “Ship-based lidar evaluation of Southern Ocean low clouds in the storm-resolving general circulation model ICON and the ERA5 and MERRA-2 reanalyses” by Kuma et al. (2025)</td></tr>
+<tr><td><a href="https://github.com/peterkuma/icon-so-2024-alcf">icon-so-2024-alcf</a></td><td>Fork of the Automatic Lidar and Ceilometer Processing Framework (ALCF) with features for a manuscript</td></tr>
+<tr><td><a href="https://github.com/peterkuma/acraneb2-intermittency-analysis">acraneb2-intermittency-analysis</a></td><td>Code for the master's degree thesis “Broadband approach as a framework for implementation of radiative transfer scheme with selective intermittency: Cost versus accuracy study”</td></tr>
+</table>
+
+### Manuscript and thesis source
+
+<table>
+<tr><td><a href="https://github.com/peterkuma/icon-so-2024-paper">icon-so-2024-paper</a></td><td>Source of the manuscript “Ship-based lidar evaluation of Southern Ocean low clouds in the storm-resolving general circulation model ICON and the ERA5 and MERRA-2 reanalyses” by Kuma et al. (2025)</td></tr>
+<tr><td><a href="https://github.com/peterkuma/doctoral-thesis">doctoral-thesis</a></td><td>Source of the doctoral thesis “Comparing remotely sensed observations of clouds and aerosols in the Southern Ocean with climate model simulations” by Kuma (2020)</td></tr>
+<tr><td><a href="https://github.com/peterkuma/masters-thesis">masters-thesis</a></td><td>Source of the master's thesis “Broadband approach as a framework for implementation of radiative transfer scheme with selective intermittency: Cost versus accuracy study” by Kuma (2015)</td></tr>
+<tr><td><a href="https://github.com/peterkuma/bachelors-thesis">bachelors-thesis</a></td><td>Source of the bachelor's degree thesis “Visualising Data from CloudSat and CALIPSO Satellites” by Kuma (2010)</td></tr>
+</table>
+
+### Websites
+
+<table>
+<tr><td><a href="https://github.com/peterkuma/peterkuma.net">peterkuma.net</a></td><td>Source of the website peterkuma.net</td></tr>
+<tr><td><a href="https://github.com/peterkuma/tjrapid">tjrapid</a></td><td>Source of the website tjrapid.sk</td></tr>
+</table>
