@@ -29,11 +29,13 @@
 <tr><td><a href="https://github.com/peterkuma/picture-slider">picture-slider</a></td><td>JavaScript library for an animated picture slider (<a href="https://picture-slider.peterkuma.net">picture-slider.peterkuma.net</a>)</td></tr>
 <tr><td><a href="https://github.com/peterkuma/pst">pst</a></td><td>Command-line tool and a Python package for parsing Plain Structured Text (PST)</td></tr>
 <tr><td><a href="https://github.com/peterkuma/django-linguo">django-linguo</a></td><td>Fork of django-linguo with support for more recent version of Django</td></tr>
+<tr><td><a href="https://github.com/peterkuma/bunyan-streams-config">bunyan-streams-config</a></td><td>node.js package for creating bunyan streams from JSON configuration</td></tr>
 </table>
 
 ### Scientific code for papers and theses
 
 <table>
+<tr><td><a href="https://github.com/peterkuma/clouds-ross-sea-2018">clouds-ross-sea-2018</a></td><td>Code and data for the paper <a href="https://doi.org/10.5194/acp-18-9723-2018">An analysis of the cloud environment over the Ross Sea and Ross Ice Shelf using CloudSat/CALIPSO satellites: The importance of Synoptic Forcing</a> by Jolly et al. (2018)</td></tr>
 <tr><td><a href="https://github.com/peterkuma/model-code-genealogy-2022">model-code-genealogy-2022</a></td><td>Code for the paper <a href="https://doi.org/10.1029/2022MS003588">Climate model code genealogy and its relation to climate feedbacks and sensitivity</a> by Kuma et al. (2023)</td></tr>
 <tr><td><a href="https://github.com/peterkuma/microplastics2021">microplastics2021</a></td><td>Code and data for the paper <a href="https://doi.org/10.1038/s41586-021-03864-x">Direct radiative effects of airborne microplastics</a> by Revell et al. (2021)</td></tr>
 <tr><td><a href="https://github.com/peterkuma/ml-clouds-2021">ml-clouds-2021</a></td><td>Code for the paper <a href="https://doi.org/10.5194/acp-23-523-2023">Machine learning of cloud types in satellite observations and climate models</a> by Kuma et al. (2023)</td></tr>
@@ -42,12 +44,15 @@
 <tr><td><a href="https://github.com/peterkuma/icon-so-2024">icon-so-2024</a></td><td>Code for the paper <a href="https://doi.org/10.1029/2024JD043145">Ship-based lidar evaluation of Southern Ocean low clouds in the storm-resolving general circulation model ICON and the ERA5 and MERRA-2 reanalyses</a> by Kuma et al. (2025)</td></tr>
 <tr><td><a href="https://github.com/peterkuma/icon-so-2024-alcf">icon-so-2024-alcf</a></td><td>Fork of the Automatic Lidar and Ceilometer Processing Framework (ALCF) with features for the paper <a href="https://doi.org/10.1029/2024JD043145">Ship-based lidar evaluation of Southern Ocean low clouds in the storm-resolving general circulation model ICON and the ERA5 and MERRA-2 reanalyses</a> by Kuma et al. (2025)</td></tr>
 <tr><td><a href="https://github.com/peterkuma/acraneb2-intermittency-analysis">acraneb2-intermittency-analysis</a></td><td>Code for the master's degree thesis <a href="https://doi.org/10.5281/zenodo.3764236">Broadband approach as a framework for implementation of radiative transfer scheme with selective intermittency: Cost versus accuracy study</a> by Kuma (2015)</td></tr>
+<tr><td><a href="https://github.com/peterkuma/shortwave-intermittency">shortwave-intermittency
+</a></td><td>Code for the master's degree thesis <a href="https://doi.org/10.5281/zenodo.3764236">Broadband approach as a framework for implementation of radiative transfer scheme with selective intermittency: Cost versus accuracy study</a> by Kuma (2015)</td></tr>
 </table>
 
 ### Manuscript and thesis sources
 
 <table>
 <tr><td><a href="https://github.com/peterkuma/icon-so-2024-paper">icon-so-2024-paper</a></td><td>Source of the manuscript <a href="https://doi.org/10.1029/2024JD043145">Ship-based lidar evaluation of Southern Ocean low clouds in the storm-resolving general circulation model ICON and the ERA5 and MERRA-2 reanalyses</a> by Kuma et al. (2025)</td></tr>
+<tr><td><a href="https://github.com/peterkuma/clouds-ross-sea-paper">clouds-ross-sea-paper</a></td><td>Source of the manuscript <a href="https://doi.org/10.5194/acp-18-9723-2018">An analysis of the cloud environment over the Ross Sea and Ross Ice Shelf using CloudSat/CALIPSO satellite observations: The importance of synoptic forcing</a> by Jolly et al. (2018)</td></tr>
 <tr><td><a href="https://github.com/peterkuma/doctoral-thesis">doctoral-thesis</a></td><td>Source of the doctoral thesis <a href="https://doi.org/10.5281/zenodo.4281575">Comparing remotely sensed observations of clouds and aerosols in the Southern Ocean with climate model simulations</a> by Kuma (2020)</td></tr>
 <tr><td><a href="https://github.com/peterkuma/masters-thesis">masters-thesis</a></td><td>Source of the master's thesis <a href="https://doi.org/10.5281/zenodo.3764236">Broadband approach as a framework for implementation of radiative transfer scheme with selective intermittency: Cost versus accuracy study</a> by Kuma (2015)</td></tr>
 <tr><td><a href="https://github.com/peterkuma/bachelors-thesis">bachelors-thesis</a></td><td>Source of the bachelor's degree thesis <a href="https://doi.org/10.5281/zenodo.3764234">Visualising Data from CloudSat and CALIPSO Satellites</a> by Kuma (2010)</td></tr>
@@ -59,4 +64,3 @@
 <tr><td><a href="https://github.com/peterkuma/peterkuma.net">peterkuma.net</a></td><td>Source of the website <a href="https://peterkuma.net">peterkuma.net</a></td></tr>
 <tr><td><a href="https://github.com/peterkuma/tjrapid">tjrapid</a></td><td>Source of the website <a href="https://tjrapid.sk">tjrapid.sk</a></td></tr>
 </table>
-
