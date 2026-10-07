@@ -44,7 +44,7 @@
 <tr><td><a href="https://github.com/peterkuma/acraneb2-intermittency-analysis">acraneb2-intermittency-analysis</a></td><td>Code for the master's degree thesis “Broadband approach as a framework for implementation of radiative transfer scheme with selective intermittency: Cost versus accuracy study” by Kuma (2015)</td></tr>
 </table>
 
-### Manuscript and thesis source
+### Manuscript and thesis sources
 
 <table>
 <tr><td><a href="https://github.com/peterkuma/icon-so-2024-paper">icon-so-2024-paper</a></td><td>Source of the manuscript “Ship-based lidar evaluation of Southern Ocean low clouds in the storm-resolving general circulation model ICON and the ERA5 and MERRA-2 reanalyses” by Kuma et al. (2025)</td></tr>
